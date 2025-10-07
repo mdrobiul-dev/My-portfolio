@@ -69,13 +69,13 @@ export const myProjects = [
   },
   {
     id: 3,
-    title: "inovate cleaning service",
+    title: "MocktailMania – Recipe Web App",
     description:
-      "Innovation is a sleek and responsive front-end web project crafted using HTML, CSS, and JavaScript",
+      "Developed an interactive recipe website using React, Tailwind CSS, and REST APIs",
     subDescription: [
       "showcases a modern landing page suitable for tech startups, digital agencies, or personal branding. The site features smooth scrolling, section transitions, hover effects, and a clean, minimalistic layout optimized for all screen sizes. This project highlights your skills in building static yet interactive web interfaces with professional design aesthetics and strong attention to user experience and responsive layout principles",
     ],
-    href: "https://its-robii.github.io/innovation/?fbclid=IwY2xjawLJ17VleHRuA2FlbQIxMABicmlkETFrTGdhSFBXbXlNZG1Wb1Q0AR4o9tNichxtMiiKtUl5_f9FOVc_rDl6MrTXb_7MWNtZ",
+    href: "https://mocktail-mania-bmad.vercel.app/",
     logo: "",
     image: "/assets/projects/inovation.png",
     tags: [
