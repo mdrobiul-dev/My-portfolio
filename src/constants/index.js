@@ -7,7 +7,7 @@ export const myProjects = [
     subDescription: [
       "It features a clean, responsive UI that adapts to both desktop and mobile devices. Built using React, Redux Toolkit, and Socket.io, it enables live messaging and state management across components. Tailwind CSS is used for consistent and efficient styling. The app includes features like user inboxes, dynamic chat lists, and smooth transitions, offering a user-centric chatting experience with real-time performance",
     ],
-    href: "https://chatbird-28dg.onrender.com/",
+    href: "https://chatbird-frontend.onrender.com",
     logo: "",
     image: "/assets/projects/chatbird.png",
     tags: [
